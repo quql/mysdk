@@ -6,6 +6,7 @@
             "email": "1373786016@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
     },
