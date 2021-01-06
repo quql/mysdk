@@ -1,0 +1,17 @@
+{
+    "name": "qql/mysdk",
+    "authors": [
+        {
+            "name": "qql",
+            "email": "1373786016@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "qql/mysdk": "src/"
+        }
+    }
+}
