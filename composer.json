@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "qql\\mysdk": "src/"
+            "qql\\mysdk\\": "src/"
         }
     }
 }
